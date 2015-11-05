@@ -4,11 +4,15 @@ var config = {
   port: 4000,
   serverUrl: 'https://localhost:5000',
   db: {
-    host: 'localhost',
+    host: '192.168.99.100',
     port: 3306,
     user: 'root',
     password: 'admin',
     database: 'campfire_db'
+  },
+  redis: {
+    host: '192.168.99.100',
+    port: 6379
   },
   session: {
     secret: 'campfire',
