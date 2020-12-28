@@ -9,7 +9,6 @@ var express = require('express'),
   conf = require('./config/conf'),
   port = process.env.PORT || conf.port;
 
-// For CORS implementation
 app.use(cors({
   origin: true,
   credentials: true
