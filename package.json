@@ -1,6 +1,6 @@
 {
   "name": "campfire-api",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Campfire API v1.0.1",
   "main": "app.js",
   "keywords": [
