@@ -29,7 +29,7 @@
     "moment": "2.10.6",
     "nodemailer": "1.4.0",
     "nodemailer-smtp-transport": "1.0.3",
-    "handlebars": "3.0.3",
+    "handlebars": "4.7.7",
     "hashids": "1.0.2",
     "multer": "1.0.3",
     "csv-parse": "0.1.4"
